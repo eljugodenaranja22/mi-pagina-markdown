@@ -1,4 +1,7 @@
 # mi-pagina-markdown
-# Mi primera pa gina en Markdown 
-Hola, soy **Nombre Apellido** y esta es mi primera pra ctica de Digitalizacio n. 
-## ¿Que  he aprendido hoy? - Diferencia entre digitalizacio n y transformacio n digital. - Ejemplos como DHL. - Cómo usar Markdown en Git
+# Mi primera pagina en Markdown 
+Hola, soy Aarón González y esta es mi primera practica de Digitalización. 
+## ¿Que he aprendido hoy? 
+- Diferencia entre digitalización y transformación digital.
+- Ejemplos como DHL.
+- Cómo usar Markdown en GitHub.
